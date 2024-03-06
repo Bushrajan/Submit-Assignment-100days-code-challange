@@ -9,15 +9,13 @@ calculations in code.
 */
 console.log("\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Day3_Q1: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n");
 
-let moon1 = 5; 
+let moon1 = 5;
 let moon0 = 2; 
 console.log(moon1+moon0); //7
 console.log(moon1-moon0); //3
 console.log(moon1*moon0); //10
 console.log(moon1/moon0); //2.5 my
-
 // ______________________________________________________________________________________________________________________________________________________________________________________________
-
 
 /*Question 8: You should create four lines that look like this:
 console.log(5 + 3)
@@ -27,14 +25,12 @@ Explain & TIP: Just like before, use basic math operations to display
 the number 8. This reinforces how to display outputs in coding.*/
 
 console.log("\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Day3_Q2: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n");
- 
 console.log(5+8); 
 console.log(5-8); 
 console.log(5*8); 
 console.log(5/8); 
- 
-// ______________________________________________________________________________________________________________________________________________________________________________________________
 
+// ______________________________________________________________________________________________________________________________________________________________________________________________
 
 /*Question 9: Favorite Number: Store your favorite number in a variable.
 Then, create a message revealing your favorite number. Print that message.
