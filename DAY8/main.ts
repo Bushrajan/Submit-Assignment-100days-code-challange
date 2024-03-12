@@ -6,6 +6,7 @@ Explain & TIP: Array index errors happen when you try to access a position in th
 console.log("\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Day8_Q1: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n");
 let guests: string[] = ['Lee John', 'Victor', 'John Marvick', 'Aliya']
 console.log(guests[4]); //on index[1] victor
+
 guests[1] = "Victor";  // correct the index [1] 
 
 let g1: string[] = ['Lee John', 'Aliya']
