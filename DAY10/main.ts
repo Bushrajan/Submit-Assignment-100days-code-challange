@@ -11,16 +11,11 @@ if (my_age < 2) {
 } else if (my_age < 4) {
     console.log("A Toddler.");
 } else if (my_age < 13) {
-    console.log("A Kid.");
-} else if (my_age < 20) {
-    console.log("A Teenager.");
-} else if (my_age < 65) {
-    console.log("An Adult.");
-} else {
-    console.log("An Elder.");
-}
+    console.log("A Kid.");  }  else if (my_age < 20) {
+    console.log("A Teenager."); } else if (my_age < 65) {
+    console.log("An Adult.");}  else {
+    console.log("An Elder."); }
 //______________________________________________________________________________________________
-
 /* Question 29: Favorite Fruit: Create an array for your favorite fruits and check if certain fruits are included.
 Explain & TIP: Arrays can store multiple items like fruit names. Use if statements to check for specific fruits.  */
 
@@ -53,9 +48,7 @@ usernames.forEach(username => {
         console.log(`\nHello ${username}, thank you for logging in again.`);
     }
 });
-
 console.log(`\n.......................................................................`);
-
 let username: string[] = ["admin", "user_1", "user_2", "user_3", "user_4"];
 
 username.forEach(username => {
