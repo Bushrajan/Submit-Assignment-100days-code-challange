@@ -18,9 +18,8 @@ console.log(
 /*Question 59: Add a Special Number: Make a program that creates custom adders. These adders can add a specific number to any other number you give them later.
 Explain & TIP: Imagine you have a magic box that can add a specific number to any number you put in it. This program makes that magic box for you!*/
 
-console.log(
-  "\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Day20:Q2 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n"
-);
+console.log("\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Day20:Q2 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n");
+//@ts-ignore
 function Special_Number(valueadd: number): (number) => number {
   return function (number: number): number {
     return number + valueadd;
@@ -29,7 +28,7 @@ function Special_Number(valueadd: number): (number) => number {
 let addTen = Special_Number(10);
 console.log("Value before adding: 10 ");
 console.log("Value after adding: ", addTen(10));
-
+ 
 //______________________________________________________________________________________________
 
 /*
