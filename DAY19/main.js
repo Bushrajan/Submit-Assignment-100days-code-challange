@@ -27,9 +27,9 @@ console.log("\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Day19:Q3 xxxxxxxxxxxxxxxxxxxxxxxxxx
 console.log("\n___Grades List1____");
 var Grades1 = [95, 24, 90, 99, 53];
 var AvgGrade1 = Grades1.reduce(function (total, grade) { return total + grade; }, 0) / Grades1.length;
-console.log(AvgGrade1); //output:
+console.log(AvgGrade1); //output:72.2
 console.log("\n___Grades List2____");
 var grades = [83, 84, 75, 98, 56];
 var averageGrade = grades.reduce(function (total, grade) { return total + grade; }, 0) / grades.length;
-console.log(averageGrade); //output:
+console.log(averageGrade); //output:79.2
 //______________________________________________________________________________________________
