@@ -92,9 +92,30 @@ Seed the database with initial data.
 **** Executing queries `);
 // ============================================================================
 
+/*Day-90 of 100-Days-Of-Code Challenge
+Day-90 Task:
+
+Today's task is to learn about:*/
+console.log(`\nxxxxxxxxxxxxxxxx DAY 90 xxxxxxxxxxxxxxxxxx\n
+Fetching Data
+
+Now that you've created and seeded your database, let's discuss the different ways you can fetch data for your application, and build out your dashboard overview page.
+
+->Choosing how to fetch data
+->Using Server Components to fetch data
+->Using SQL
+->Fetching data for the dashboard overview page
+->Fetching data for <RevenueChart/>
+->Fetching data for <LatestInvoices/>
+->Practice: Fetch data for the <Card> components
+    Now it's your turn to fetch data for the <Card> components. The cards will display the following data:
+    Total amount of invoices collected.
+    Total amount of invoices pending.
+    Total number of invoices.
+    Total number of customers.
+What are request waterfalls?
+Parallel data fetching
 
 
-
-// /**/
-// console.log(`\nxxxxxxxxxxxxxxxx DAY 90 xxxxxxxxxxxxxxxxxx\n`);
-// // ============================================================================
+`);
+// ============================================================================
