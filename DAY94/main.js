@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 /*Day-94 of 100-Days-Of-Code Challenge
 Day-94 Task:  Today's task is to learn about: */
-console.log(`\nxxxxxxxxxxxxxxxxxxxxxxxxx DAY91 xxxxxxxxxxxxxxxxxxxxxxxxx\n
+console.log(`\nxxxxxxxxxxxxxxxxxxxxxxxxx DAY94 xxxxxxxxxxxxxxxxxxxxxxxxx\n
 ***** Adding Search and Pagination *****
 -----------------------------------------
 n the previous chapter, you improved your dashboard's initial loading performance with streaming. Now let's move on to the /invoices page, and learn how to add search and pagination!

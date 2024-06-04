@@ -81,7 +81,7 @@ However, most routes are not fully static or dynamic. You may have a route that 
 
 
 What is Partial Prerendering?
-Next.js 14 contains a preview of Partial Prerendering – an experimental feature that allows you to render a route with a static loading shell, while keeping some parts dynamic. In other words, you can isolate the dynamic parts of a route. For example:
+Next.js 14 contains a preview of Partial Prerendering - an experimental feature that allows you to render a route with a static loading shell, while keeping some parts dynamic. In other words, you can isolate the dynamic parts of a route. For example:
 
 Partially Prerendered Product Page showing static nav and product information, and dynamic cart and recommended products
 When a user visits a route:
